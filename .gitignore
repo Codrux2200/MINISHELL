@@ -1,0 +1,6 @@
+test.c
+*.o
+mysh
+a.out
+libmy.a
+NormEZ.rb
